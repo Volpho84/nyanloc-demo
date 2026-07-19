@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="NyanLoc is an Italian game localization team focused on indie games and pixel art projects.">
+<meta name="keywords" content="NyanLoc, game localization, videogames, indie games, Italian translation">
+<meta name="author" content="NyanLoc">
+<meta property="og:title" content="NyanLoc - Italian Game Localization Team">
+<meta property="og:description" content="Bringing indie game stories to the Italian community.">
+<meta property="og:image" content="icons/logo.svg">
+
+<title>NyanLoc - Italian Game Localization Team</title>
+
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" type="image/svg+xml" href="icons/logo.svg">
+
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body>
+    <div class="loading-screen">
+
+     <div class="loading-box">
+
+        <h1>
+        NYANLOC
+        </h1>
+
+
+            <p id="loading-text" data-lang="loading.text">
+             > Caricamento dati localizzazione...
+            </p>
+
+
+        <div class="loading-bar">
+
+            <div class="loading-progress"></div>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+<div class="stars"></div>
+
+<div class="shooting-stars"></div>
+
+<div class="cat-event"></div>
+
+<div class="stars"></div>
+
+<div class="shooting-stars"></div>
+
+<div class="cat-event"></div>
+
+
+
+<header class="navbar">
+
+
+<div class="logo-container">
+
+<img src="icons/logo.svg" class="logo-img">
+
+<span class="logo-text">
+NyanLoc
+</span>
+
+</div>
+
+
+
+<nav class="menu">
+
+<a href="index.html" data-lang="nav.home">
+Home
+</a>
+
+<a href="chi-siamo.html" data-lang="nav.about">
+Chi Siamo
+</a>
+
+<a href="progetti.html" data-lang="nav.projects">
+Progetti
+</a>
+
+<a href="contatti.html" data-lang="nav.contact">
+Contatti
+</a>
+
+</nav>
+
+<div class="language-selector">
+
+    <button onclick="loadLanguage('it')" title="Italiano">
+        <img src="icons/language/it.png" alt="Italiano">
+    </button>
+
+    <button onclick="loadLanguage('en-us')" title="English">
+        <img src="icons/language/us.png" alt="English">
+    </button>
+
+    <button onclick="loadLanguage('es')" title="Español">
+        <img src="icons/language/sp.png" alt="Español">
+    </button>
+
+</div>
+
+
+</header>
+
+
+
+
+
+<main>
+
+
+
+<!-- HERO -->
+
+
+<section class="hero">
+
+
+<img src="icons/logo.svg" class="hero-logo">
+
+
+<h1>
+NyanLoc
+</h1>
+
+
+<h2 data-lang="hero.subtitle">
+Italian Game Localization Team
+</h2>
+
+
+
+<p data-lang="hero.description">
+
+Portiamo le storie dei videogiochi indie
+alla community italiana attraverso traduzione,
+adattamento e cura dei dettagli.
+
+</p>
+
+
+
+<div class="hero-buttons">
+
+
+<a href="chi-siamo.html" class="btn" data-lang="hero.team">
+Scopri il Team
+</a>
+
+
+<a href="progetti.html" class="btn secondary" data-lang="nav.projects">
+Progetti
+</a>
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+
+<!-- PRESENTAZIONE -->
+
+
+<section class="home-section">
+
+
+<h2 data-lang="home.about.title">
+Chi è NyanLoc?
+</h2>
+
+
+<p data-lang="home.about.description">
+
+NyanLoc è un team italiano dedicato alla
+localizzazione di videogiochi indipendenti.
+
+Il gruppo lavora per rendere accessibili nuove
+esperienze narrative alla community italiana,
+preservando lo stile e l'identità dei giochi.
+
+</p>
+
+
+
+</section>
+
+
+
+
+
+
+
+<!-- STATISTICHE -->
+
+
+<section class="stats-window">
+
+
+<h2 data-lang="home.status">
+NYANLOC STATUS
+</h2>
+
+
+
+<div class="stats-grid">
+
+
+<div class="stat">
+
+<span>
+18
+</span>
+
+<p data-lang="stats.members">
+Membri
+</p>
+
+</div>
+
+
+
+<div class="stat">
+
+<span>
+8
+</span>
+
+<p data-lang="stats.projects">
+Progetti
+</p>
+
+</div>
+
+
+
+<div class="stat">
+
+<span>
+4
+</span>
+
+<p data-lang="stats.ongoing">
+In corso
+</p>
+
+</div>
+
+
+
+<div class="stat">
+
+<span>
+4
+</span>
+
+<p data-lang="stats.completed">
+Completati
+</p>
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- PROGETTI IN EVIDENZA -->
+
+
+<section class="home-section">
+
+
+<h2 data-lang="home.featured.title">
+Progetti in evidenza
+</h2>
+
+
+
+<div class="featured-projects">
+
+
+<a href="progetti/pyromaniac.html">
+
+<img src="icons/projects/pyromaniac.svg">
+
+<p>
+Pyromaniac
+</p>
+
+</a>
+
+
+
+<a href="progetti/mops-mobs-demo.html">
+
+<img src="icons/projects/mops-and-mobs-demo.svg">
+
+<p>
+Mops & Mobs
+</p>
+
+</a>
+
+
+
+<a href="progetti/for-evelyn.html">
+
+<img src="icons/projects/for-evelyn.svg">
+
+<p>
+For Evelyn
+</p>
+
+</a>
+
+
+
+</div>
+
+
+
+<a href="progetti.html" class="btn" data-lang="home.projects.button">
+Vedi tutti i progetti
+</a>
+
+
+</section>
+
+
+
+
+
+</main>
+
+
+
+
+
+
+
+<footer>
+
+<p>
+NyanLoc
+</p>
+
+<p data-lang="footer.tagline">
+Italian Game Localization Team
+</p>
+
+
+<div class="footer-links">
+
+<a href="index.html" data-lang="nav.home">
+Home
+</a>
+
+<a href="chi-siamo.html" data-lang="nav.about">
+Chi Siamo
+</a>
+
+<a href="progetti.html" data-lang="nav.projects">
+Progetti
+</a>
+
+<a href="contatti.html" data-lang="nav.contact">
+Contatti
+</a>
+
+</div>
+
+
+<p data-lang="footer.copyright">
+© 2026 NyanLoc - Tutti i diritti riservati
+</p>
+
+</footer>
+
+
+<script src="js/language.js"></script>
+<script src="js/decorations.js"></script>
+
+</body>
+
+</html>

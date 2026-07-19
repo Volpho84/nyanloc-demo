@@ -1,0 +1,282 @@
+{
+    "nav.home": "Home",
+    "nav.about": "Chi Siamo",
+    "nav.projects": "Progetti",
+    "nav.contact": "Contatti",
+
+    "hero.subtitle": "Italian Game Localization Team",
+
+    "member.adriana.name": "Adriana",
+    "member.adriana.role": "Traduttore / Revisore",
+    "member.adriana.description": "Adriana si chiama e da quando è nata, dall'amore per l'arte la sua vita è forgiata. In giapponese si è laureata, e sin da bimba i videogiochi l'hanno sempre accompagnata. In reami incantati vola la sua fantasia, con romanticismo e Dark Souls che le mostrano la via. E per concludere la presentazione, animali e piante sono una sua grande ossessione.",
+    "member.description.title": "Descrizione",
+    "member.projects.title": "Progetti",
+    "member.role.title": "Ruolo nel Team",
+    "member.althea.name": "Althea",
+    "member.althea.role": "Traduttore / Revisore",
+    "member.althea.description": "Quando non è impegnata a farsi male remando e correndo su infide spiagge, traduce, scrive, revisiona e si occupa di grafica.",
+    "member.roberto.name": "Roberto",
+    "member.roberto.role": "Traduttore / Revisore",
+    "member.roberto.description": "È il tipo di localizzatore che “mo’ te traduco pure la famiglia”. Appassionato di avventure grafiche e collezionista di tag ben chiusi. Ex creatura della notte, oggi funziona sorprendentemente bene anche prima del caffè.",
+    "member.andrea.name": "Andrea",
+    "member.andrea.role": "Traduttore / Revisore",
+    "member.andrea.description": "Dalla Terra del Fuoco e della Cenere, Andrea è sopravvissuto a numerose eruzioni di massa dell’Etna e in seguito ha cominciato a tradurre videogiochi con un gruppetto di gattari.",
+    "member.linda.name": "Linda",
+    "member.linda.role": "Traduttore / Revisore",
+    "member.linda.description": "È di certo una di quelle persone con talmente tanti hobby che finisce per non portarne a termine nessuno. Potrete sicuramente trovarla davanti a un videogioco, mentre balla in camera sua, che fa l’uncinetto… insomma avete capito.",
+    "member.alessandra.name": "Alessandra",
+    "member.alessandra.role": "Traduttore / Revisore",
+    "member.alessandra.description": "Si dice che l’essere umano sia composto da circa il 50% di acqua. Nel caso di Alessandra si può facilmente intuire cosa componga il restante 50%: spritz veneziano, amore per i suoi gatti e kanji giapponesi.",
+    "member.celeste.name": "Celeste",
+
+"member.celeste.role": "Traduttore / Revisore",
+
+"member.celeste.description": "Placida come un tempio zen fuori, caotica come un Festival Holi dentro. Curiosa come un gatto e amante dello studio, particolarmente attratta da ciò che è infinitamente grande e infinitamente piccolo.",
+"member.benedetta.name": "Benedetta",
+
+"member.benedetta.role": "Traduttore / Revisore",
+
+"member.benedetta.description": "Canta in ogni situazione e, quando possibile, ti mostrerà una foto delle sue gatte. Adora la musica e le moto.",
+"member.michael.name": "Michael",
+
+"member.michael.role": "Traduttore / Revisore",
+
+"member.michael.description": "Qualcuno potrebbe definire questo simpatico pischello un imbroglione. Come mai? Beh, di cognome fa Stewart... servono spiegazioni? Perciò: doppia cittadinanza, doppia personalità e doppiamente amichevole. E immancabilmente, il suo orientamento verso il \"British Humour\" è sempre ben servito, proprio come il tè delle 5!",
+"member.luca.name": "Luca",
+
+"member.luca.role": "Traduttore / Revisore",
+
+"member.luca.description": "La maggior parte delle persone non ha mai visto il suo volto. Chi ci è riuscito potrebbe non aver mai sentito la sua voce... tranne per quando si tratta di parlare delle sue cose preferite. Non rendetelo MAI il centro dell'attenzione, sarà SICURAMENTE a disagio e, purtroppo, esploderà.",
+"member.filippo.name": "Filippo",
+
+"member.filippo.role": "Traduttore / Revisore",
+
+"member.filippo.description": "Il suo periodo post-laurea ha visto la fusione del suo ambiente lavorativo con la passione per i videogiochi. Ha l’animo di un traduttore ed è un grande fan della FromSoftware: per la lore e la sfida.",
+"member.erika.name": "Erika",
+
+"member.erika.role": "Traduttore / Revisore",
+
+"member.erika.description": "Nickname 'Asuna', ENFP certificata ed energia da curiosa gatta fulva a tempo pieno. Tra GDR, cozy games, anime e gestionali, ha collezionato esami di giurisprudenza, studiato lingue orientali e tradotto drama per passione. Dolce, vivace e un filo caotica... ma prima del matcha non garantisce supporto tecnico.",
+"member.davide.name": "Davide",
+
+"member.davide.role": "Traduttore / Revisore",
+
+"member.davide.description": "Se non sta cercando di migliorare le sue speedrun di qualche secondo o provando a finire un gioco arcade con un solo credito, potreste trovarlo assorto nel tentativo di uscirsene con le rime più bizzarre possibili per le traduzioni. Non ha un gatto... per ora.",
+"member.francesca.name": "Francesca",
+
+"member.francesca.role": "Traduttore / Revisore",
+
+"member.francesca.description": "Vive in una dimensione parallela, dove Stephen King scrive sceneggiature di videogiochi e Edgar Allan Poe adora i video di gattini su TikTok. Nella vita reale, sogna di tradurre queste ossessioni oscure nel suo lavoro. Praticamente la trama perfetta per un thriller psicologico.",
+"member.marta.name": "Marta",
+
+"member.marta.role": "Traduttore / Revisore",
+
+"member.marta.description": "La nostra appariz... anziana può sembrare svampita, considerato che crea inavvertitamente nuovi titoli per i giochi a ogni occasione. La verità è un'altra: il suo cervello va molto più veloce della sua parlantina. Per questo ha tutti quei capelli, ha una transcreation per ogni capello.",
+"member.valeria.name": "Valeria",
+
+"member.valeria.role": "Traduttore / Revisore",
+
+"member.valeria.description": "Quando l'episodio successivo della tua serie preferita in TV poteva non arrivare mai... Quando compravi un nuovo album di figurine sapendo che forse non lo avresti mai finito... Lei c'era e viveva quel disagio. Ogni tanto canta e rickrolla gli amici. Gatti: 2",
+"member.samantha.name": "Samantha",
+
+"member.samantha.role": "Traduttore / Revisore",
+
+"member.samantha.description": "Cresciuta a tiramisù e videogiochi, la sua avventura l'ha portata in Corea con una missione: diffondere la localizzazione italiana nel mondo videoludico. Timida come un Mimikyu, basta parlare di gaming per sbloccare il suo dialogo infinito.",
+"member.chiara.name": "Chiara",
+
+"member.chiara.role": "Traduttore / Revisore",
+
+"member.chiara.description": "“È la strada che insegna all'accademia, non il contrario”… Questo è il suo motto. Si nutre di tutto ciò che arriva dalla strada: teatro, parolacce, proverbi. Più è irriverente, meglio è. Se costretta a indossare la rigida corazza della burocrazia… si adegua, ma non senza una buona dose di sbuffi.",
+"project.title.description": "Descrizione",
+
+"project.title.information": "Informazioni",
+
+"project.status": "Stato:",
+
+"project.developer": "Sviluppatore:",
+
+"project.genre": "Genere:",
+
+"project.platforms": "Piattaforme:",
+
+"project.availability": "Disponibilità:",
+
+"project.localization.completed": "Localizzazione italiana completata",
+
+"project.localization.ongoing": "Localizzazione italiana in corso",
+
+"project.steam": "Steam",
+
+"project.back": "Torna ai progetti",
+"project.evelyn.title": "For Evelyn",
+
+"project.evelyn.description": "For Evelyn è un'esperienza narrativa indipendente incentrata sulla storia e sulle emozioni dei suoi personaggi.",
+
+"project.evelyn.status": "Localizzazione italiana completata",
+
+"project.evelyn.developer": "TaleHammer",
+
+"project.evelyn.genre": "GDR - 2D - Storia ben curata - Dark",
+
+"project.evelyn.platforms": "PC",
+
+"project.evelyn.availability": "Steam",
+"project.hermitpig.title": "Hermit & Pig",
+
+"project.hermitpig.description": "Hermit & Pig è un'avventura narrativa indie caratterizzata da esplorazione, dialoghi e un'atmosfera particolare.",
+
+"project.hermitpig.status": "Localizzazione italiana in corso",
+
+"project.hermitpig.developer": "Heavy Lunch Studio LLC",
+
+"project.hermitpig.genre": "Avventura - GDR - Combattimento a turni",
+
+"project.hermitpig.platforms": "PC",
+
+"project.hermitpig.availability": "Steam",
+"project.pyromaniac.title": "Pyromaniac",
+
+"project.pyromaniac.description": "Pyromaniac è un titolo indipendente che combina atmosfere inquietanti e una forte componente narrativa, offrendo un'esperienza particolare nel panorama dei giochi indie.",
+
+"project.pyromaniac.status": "Localizzazione italiana completata",
+
+"project.pyromaniac.developer": "Dominik Braun",
+
+"project.pyromaniac.genre": "Indie - Avventura - Horror - Azione",
+
+"project.pyromaniac.platforms": "PC",
+
+"project.pyromaniac.availability": "Steam",
+"project.mopsmobs.title": "Mops & Mobs DEMO",
+
+"project.mopsmobs.description": "Mops & Mobs DEMO è una versione dimostrativa di un titolo indipendente, caratterizzato da uno stile originale e da un'esperienza pensata per mostrare le caratteristiche principali del gioco.",
+
+"project.mopsmobs.status": "Localizzazione italiana completata",
+
+"project.mopsmobs.developer": "Rat King Entertainment",
+
+"project.mopsmobs.genre": "Dungeon Crawler - Avventura - Esplorazione - Racconti visivi",
+
+"project.mopsmobs.platforms": "PC",
+
+"project.mopsmobs.availability": "Steam",
+"project.website": "Sito",
+"project.nopassinggrade.title": "No Passing Grade",
+
+"project.nopassinggrade.description": "No Passing Grade è un gioco indipendente che combina elementi narrativi e gameplay originale, offrendo un'esperienza particolare all'interno del panorama indie.",
+
+"project.nopassinggrade.developer": "Idra Interactive Studios",
+
+"project.nopassinggrade.genre": "Avventura indie",
+
+"project.nopassinggrade.platforms": "PC",
+
+"project.nopassinggrade.availability": "Sito ufficiale",
+"project.scarletdeer.title": "Scarlet Deer Inn",
+
+"project.scarletdeer.description": "Un'avventura narrativa ambientata in un mondo medievale ispirato al folklore slavo, caratterizzata da uno stile artistico unico con animazioni realizzate tramite ricamo.",
+
+"project.scarletdeer.developer": "Attu Games",
+
+"project.scarletdeer.genre": "Avventura narrativa",
+
+"project.scarletdeer.platforms": "PC",
+
+"project.scarletdeer.availability": "Steam",
+"project.talestuscany.title": "Tales of Tuscany",
+
+"project.talestuscany.description": "Un'avventura narrativa ambientata nella campagna toscana, che racconta storie, luoghi e atmosfere attraverso un'esperienza indipendente ricca di fascino.",
+
+"project.talestuscany.developer": "Nico Papalia",
+
+"project.talestuscany.genre": "GDR Giapponesi - Collezione di Creature - Inferno di Proiettili",
+
+"project.talestuscany.platforms": "PC",
+
+"project.talestuscany.availability": "Steam",
+"project.veniceafterdark.title": "Venice After Dark",
+
+"project.veniceafterdark.description": "Un'avventura ambientata in una Venezia misteriosa e immersa in un'atmosfera oscura, con elementi narrativi e una forte componente esplorativa.",
+
+"project.veniceafterdark.developer": "Sebastian Grünwald, Weltenwandler Designagentur GmbH",
+
+"project.veniceafterdark.genre": "Avventure grafiche - Mistero - Cospirazioni",
+
+"project.veniceafterdark.platforms": "PC",
+
+"project.veniceafterdark.availability": "Steam",
+"footer.tagline": "Italian Game Localization Team",
+"footer.copyright": "© 2026 NyanLoc - Tutti i diritti riservati",
+
+"projects.title": "PROGETTI",
+"projects.subtitle": "Le localizzazioni realizzate e in sviluppo da NyanLoc.",
+"projects.archive.title": "Project Archive",
+"projects.archive.description": "A collection of videogames localized by NyanLoc.",
+
+"project.coming.title": "COMING SOON",
+"project.coming.status": "CLASSIFIED",
+"project.coming.description": "Project details will be revealed after the official announcement.",
+
+"project.classified": "CLASSIFIED",
+"project.localization": "Localizzazione",
+"loading.text": "> Caricamento dati lingua...",
+"hero.description": "Portiamo le storie dei videogiochi indie alla community italiana attraverso traduzione, adattamento e cura dei dettagli.",
+"hero.team": "Scopri il Team",
+
+"home.about.title": "Chi è NyanLoc?",
+"home.about.description": "NyanLoc è un team italiano dedicato alla localizzazione di videogiochi indipendenti. Il gruppo lavora per rendere accessibili nuove esperienze narrative alla community italiana, preservando lo stile e l'identità dei giochi.",
+
+"home.status": "STATO NYANLOC",
+"stats.members": "Membri",
+"stats.projects": "Progetti",
+"stats.ongoing": "In corso",
+"stats.completed": "Completati",
+
+"home.featured.title": "Progetti in evidenza",
+"home.projects.button": "Vedi tutti i progetti",
+"about.title": "CHI SIAMO",
+"about.subtitle": "Un team italiano dedicato alla localizzazione di giochi indie e pixel art.",
+
+"about.history.title": "La nostra storia",
+"about.history.text1": "NyanLoc nasce dalla passione per i videogiochi indipendenti e dalla voglia di portare in italiano titoli che meritano di essere conosciuti da più giocatori.",
+"about.history.text2": "Ci occupiamo di traduzione, adattamento, revisione e testing delle localizzazioni.",
+
+"about.value.passion.title": "🎮 Passione",
+"about.value.passion.text": "Amiamo i videogiochi e le loro storie.",
+
+"about.value.quality.title": "✏️ Qualità",
+"about.value.quality.text": "Curiamo ogni dettaglio della traduzione.",
+
+"about.value.community.title": "🐱 Comunità",
+"about.value.community.text": "Lavoriamo insieme come un vero team.",
+
+"about.team.title": "Il Team",
+"contact.title": "CONTACT TERMINAL",
+
+"contact.description": "Benvenuto nel centro comunicazioni NyanLoc.",
+
+"contact.description2": "Se desideri collaborare, proporre un progetto o entrare in contatto con il team, puoi utilizzare uno dei nostri canali ufficiali.",
+
+"contact.linkedin": "Apri LinkedIn",
+
+"contact.instagram": "Apri Instagram",
+
+"contact.status.connected": "> Connessione stabilita",
+
+"contact.status.waiting": "> In attesa di messaggio...",
+"projects.localized": "LOCALIZZATO",
+
+"projects.coming.title": "IN ARRIVO",
+
+"projects.coming.status": "CLASSIFICATO",
+
+"projects.coming.description": "I dettagli del progetto saranno rivelati dopo l'annuncio ufficiale.",
+
+"project.evelyn.short": "Un'esperienza narrativa indipendente.",
+
+"project.pyromaniac.short": "Localizzazione italiana completata.",
+
+"project.nopassinggrade.short": "Localizzazione italiana completata.",
+
+"project.mopsmobs.short": "Localizzazione della demo completata."
+}

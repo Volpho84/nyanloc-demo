@@ -1,0 +1,283 @@
+{
+    "nav.home": "Home",
+    "nav.about": "About",
+    "nav.projects": "Projects",
+    "nav.contact": "Contact",
+
+    "hero.subtitle": "Italian Game Localization Team",
+
+    "member.adriana.name": "Adriana",
+    "member.adriana.role": "Translator / Proofreader",
+    "member.adriana.description": "Adriana has been shaped by her love for art since childhood. She graduated in Japanese studies, and videogames have always been part of her journey. Her imagination travels through enchanted worlds, guided by romance and Dark Souls. To complete her introduction, animals and plants are among her greatest passions.",
+    "member.description.title": "Description",
+    "member.projects.title": "Projects",
+    "member.role.title": "Team Role",
+    "member.althea.name": "Althea",
+    "member.althea.role": "Translator / Proofreader",
+    "member.althea.description": "When she is not busy hurting herself while rowing and running on treacherous beaches, she translates, writes, proofreads, and works on graphics.",
+    "member.roberto.name": "Roberto",
+    "member.roberto.role": "Translator / Proofreader",
+    "member.roberto.description": "The kind of localizer who would say, “I’ll translate your whole family too.” A fan of graphic adventures and a collector of perfectly closed tags. Once a creature of the night, he now surprisingly works well even before coffee.",
+    "member.andrea.name": "Andrea",
+    "member.andrea.role": "Translator / Proofreader",
+    "member.andrea.description": "From the Land of Fire and Ash, Andrea survived numerous massive eruptions of Mount Etna and later began translating videogames with a small group of cat lovers.",
+    "member.linda.name": "Linda",
+    "member.linda.role": "Translator / Proofreader",
+    "member.linda.description": "She is definitely one of those people with so many hobbies that she ends up finishing none of them. You can surely find her playing a videogame, dancing in her room, or crocheting... you get the idea.",
+    "member.alessandra.name": "Alessandra",
+    "member.alessandra.role": "Translator / Proofreader",
+    "member.alessandra.description": "They say that humans are made up of around 50% water. In Alessandra’s case, it is easy to guess what makes up the remaining 50%: Venetian spritz, love for her cats, and Japanese kanji.",
+    "member.celeste.name": "Celeste",
+
+"member.celeste.role": "Translator / Proofreader",
+
+"member.celeste.description": "Calm like a Zen temple on the outside, chaotic like a Holi Festival on the inside. Curious as a cat and passionate about learning, she is especially fascinated by everything that is infinitely large and infinitely small.",
+"member.benedetta.name": "Benedetta",
+
+"member.benedetta.role": "Translator / Proofreader",
+
+"member.benedetta.description": "She sings in every situation and, whenever possible, she will show you a picture of her cats. She loves music and motorcycles.",
+"member.michael.name": "Michael",
+
+"member.michael.role": "Translator / Proofreader",
+
+"member.michael.description": "Some might call this cheerful lad a fraud. Why? Well, his last name is Stewart... do we really need to explain? So: double citizenship, double personality, and twice as friendly. And unsurprisingly, his passion for British humour is always served properly, just like a classic 5 o'clock tea!",
+"member.luca.name": "Luca",
+
+"member.luca.role": "Translator / Proofreader",
+
+"member.luca.description": "Most people have never seen his face. Those who have might have never heard his voice... except when it comes to talking about his favorite things. NEVER make him the center of attention, he will DEFINITELY feel uncomfortable and, unfortunately, explode.",
+"member.filippo.name": "Filippo",
+
+"member.filippo.role": "Translator / Proofreader",
+
+"member.filippo.description": "His post-graduation period saw the merging of his professional environment with his passion for videogames. He has the soul of a translator and is a huge FromSoftware fan: for the lore and the challenge.",
+"member.erika.name": "Erika",
+
+"member.erika.role": "Translator / Proofreader",
+
+"member.erika.description": "Nickname 'Asuna', a certified ENFP with the full-time energy of a curious ginger cat. Between RPGs, cozy games, anime, and management games, she has collected law exams, studied Eastern languages, and translated dramas out of passion. Sweet, lively, and a little chaotic... but before matcha, technical support is not guaranteed.",
+"member.davide.name": "Davide",
+
+"member.davide.role": "Translator / Proofreader",
+
+"member.davide.description": "If he is not trying to shave a few seconds off his speedruns or attempting to beat an arcade game with a single credit, you might find him absorbed in coming up with the weirdest possible rhymes for translations. He doesn't have a cat... yet.",
+"member.francesca.name": "Francesca",
+
+"member.francesca.role": "Translator / Proofreader",
+
+"member.francesca.description": "She lives in a parallel dimension where Stephen King writes videogame scripts and Edgar Allan Poe loves cat videos on TikTok. In real life, she dreams of translating these dark obsessions into her work. Basically the perfect plot for a psychological thriller.",
+"member.marta.name": "Marta",
+
+"member.marta.role": "Translator / Proofreader",
+
+"member.marta.description": "Our... elderly-looking member might seem a little absent-minded, considering she accidentally creates new game titles every chance she gets. The truth is different: her brain works much faster than she can speak. That's why she has so much hair: she has a transcreation for every single strand.",
+"member.valeria.name": "Valeria",
+
+"member.valeria.role": "Translator / Proofreader",
+
+"member.valeria.description": "When the next episode of your favorite TV show might never arrive... When you bought a new sticker album knowing you might never complete it... She was there, living through that struggle. She occasionally sings and rickrolls her friends. Cats: 2",
+"member.samantha.name": "Samantha",
+
+"member.samantha.role": "Translator / Proofreader",
+
+"member.samantha.description": "Raised on tiramisu and videogames, her adventure took her to Korea with a mission: spreading Italian localization throughout the gaming world. Shy like a Mimikyu, all it takes is a conversation about gaming to unlock her endless dialogue.",
+"member.chiara.name": "Chiara",
+
+"member.chiara.role": "Translator / Proofreader",
+
+"member.chiara.description": "\"It is the street that teaches the academy, not the other way around\"... This is her motto. She feeds on everything that comes from the streets: theatre, swear words, and proverbs. The more irreverent, the better. If forced to wear the rigid armor of bureaucracy... she adapts, but not without a healthy amount of sighs.",
+"project.title.description": "Description",
+
+"project.title.information": "Information",
+
+"project.status": "Status:",
+
+"project.developer": "Developer:",
+
+"project.genre": "Genre:",
+
+"project.platforms": "Platforms:",
+
+"project.availability": "Availability:",
+
+"project.localization.completed": "Italian localization completed",
+
+"project.localization.ongoing": "Italian localization in progress",
+
+"project.steam": "Steam",
+
+"project.back": "Back to projects",
+"project.evelyn.title": "For Evelyn",
+
+"project.evelyn.description": "For Evelyn is an independent narrative experience focused on the story and emotions of its characters.",
+
+"project.evelyn.status": "Italian localization completed",
+
+"project.evelyn.developer": "TaleHammer",
+
+"project.evelyn.genre": "RPG - 2D - Story-driven - Dark",
+
+"project.evelyn.platforms": "PC",
+
+"project.evelyn.availability": "Steam",
+"project.hermitpig.title": "Hermit & Pig",
+
+"project.hermitpig.description": "Hermit & Pig is an indie narrative adventure featuring exploration, dialogue, and a unique atmosphere.",
+
+"project.hermitpig.status": "Italian localization in progress",
+
+"project.hermitpig.developer": "Heavy Lunch Studio LLC",
+
+"project.hermitpig.genre": "Adventure - RPG - Turn-based Combat",
+
+"project.hermitpig.platforms": "PC",
+
+"project.hermitpig.availability": "Steam",
+"project.pyromaniac.title": "Pyromaniac",
+
+"project.pyromaniac.description": "Pyromaniac is an independent title that combines unsettling atmospheres with a strong narrative focus, delivering a unique experience within the indie game scene.",
+
+"project.pyromaniac.status": "Italian localization completed",
+
+"project.pyromaniac.developer": "Dominik Braun",
+
+"project.pyromaniac.genre": "Indie - Adventure - Horror - Action",
+
+"project.pyromaniac.platforms": "PC",
+
+"project.pyromaniac.availability": "Steam",
+"project.mopsmobs.title": "Mops & Mobs DEMO",
+
+"project.mopsmobs.description": "Mops & Mobs DEMO is a playable demo of an independent title, featuring a unique art style and an experience designed to showcase the game's core mechanics and atmosphere.",
+
+"project.mopsmobs.status": "Italian localization completed",
+
+"project.mopsmobs.developer": "Rat King Entertainment",
+
+"project.mopsmobs.genre": "Dungeon Crawler - Adventure - Exploration - Visual Storytelling",
+
+"project.mopsmobs.platforms": "PC",
+
+"project.mopsmobs.availability": "Steam",
+"project.website": "Website",
+"project.nopassinggrade.title": "No Passing Grade",
+
+"project.nopassinggrade.description": "No Passing Grade is an independent game that blends narrative elements with original gameplay, delivering a unique experience within the indie game scene.",
+
+"project.nopassinggrade.developer": "Idra Interactive Studios",
+
+"project.nopassinggrade.genre": "Indie Adventure",
+
+"project.nopassinggrade.platforms": "PC",
+
+"project.nopassinggrade.availability": "Official website",
+"project.scarletdeer.title": "Scarlet Deer Inn",
+
+"project.scarletdeer.description": "A narrative adventure set in a medieval world inspired by Slavic folklore, featuring a unique artistic style with hand-embroidered animations.",
+
+"project.scarletdeer.developer": "Attu Games",
+
+"project.scarletdeer.genre": "Narrative Adventure",
+
+"project.scarletdeer.platforms": "PC",
+
+"project.scarletdeer.availability": "Steam",
+"project.talestuscany.title": "Tales of Tuscany",
+
+"project.talestuscany.description": "A narrative adventure set in the Tuscan countryside, telling stories of places and atmospheres through a charming independent experience.",
+
+"project.talestuscany.developer": "Nico Papalia",
+
+"project.talestuscany.genre": "Japanese RPG - Creature Collection - Bullet Hell",
+
+"project.talestuscany.platforms": "PC",
+
+"project.talestuscany.availability": "Steam",
+"project.veniceafterdark.title": "Venice After Dark",
+
+"project.veniceafterdark.description": "An adventure set in a mysterious Venice shrouded in a dark atmosphere, featuring narrative elements and a strong focus on exploration.",
+
+"project.veniceafterdark.developer": "Sebastian Grünwald, Weltenwandler Designagentur GmbH",
+
+"project.veniceafterdark.genre": "Graphic Adventure - Mystery - Conspiracies",
+
+"project.veniceafterdark.platforms": "PC",
+
+"project.veniceafterdark.availability": "Steam",
+"footer.tagline": "Italian Game Localization Team",
+"footer.copyright": "© 2026 NyanLoc - All rights reserved",
+
+"projects.title": "PROJECTS",
+"projects.subtitle": "The localizations created and currently in development by NyanLoc.",
+"projects.archive.title": "Project Archive",
+"projects.archive.description": "A collection of videogames localized by NyanLoc.",
+
+"project.coming.title": "COMING SOON",
+"project.coming.status": "CLASSIFIED",
+"project.coming.description": "Project details will be revealed after the official announcement.",
+
+"project.classified": "CLASSIFIED",
+"project.localization": "Localization",
+"loading.text": "> Loading language data...",
+"hero.description": "We bring indie video game stories to the Italian community through translation, adaptation, and attention to detail.",
+"hero.team": "Discover the Team",
+
+"home.about.title": "Who is NyanLoc?",
+"home.about.description": "NyanLoc is an Italian team dedicated to the localization of independent video games. The group works to make new narrative experiences accessible to the Italian community while preserving the style and identity of each game.",
+
+"home.status": "NYANLOC STATUS",
+"stats.members": "Members",
+"stats.projects": "Projects",
+"stats.ongoing": "In Progress",
+"stats.completed": "Completed",
+
+"home.featured.title": "Featured Projects",
+"home.projects.button": "View all projects",
+"about.title": "ABOUT US",
+"about.subtitle": "An Italian team dedicated to indie games and pixel art localization.",
+
+"about.history.title": "Our Story",
+"about.history.text1": "NyanLoc was born from a passion for independent videogames and the desire to bring Italian translations to titles that deserve to be discovered by more players.",
+"about.history.text2": "We work on translation, adaptation, proofreading, and localization testing.",
+
+"about.value.passion.title": "🎮 Passion",
+"about.value.passion.text": "We love videogames and the stories they tell.",
+
+"about.value.quality.title": "✏️ Quality",
+"about.value.quality.text": "We take care of every detail of the translation process.",
+
+"about.value.community.title": "🐱 Community",
+"about.value.community.text": "We work together as a true team.",
+
+"about.team.title": "The Team",
+"contact.title": "CONTACT TERMINAL",
+
+"contact.description": "Welcome to the NyanLoc communication center.",
+
+"contact.description2": "If you would like to collaborate, propose a project, or get in touch with the team, you can use one of our official channels.",
+
+"contact.linkedin": "Open LinkedIn",
+
+"contact.instagram": "Open Instagram",
+
+"contact.status.connected": "> Connection established",
+
+"contact.status.waiting": "> Waiting for message...",
+
+"projects.localized": "LOCALIZED",
+
+"projects.coming.title": "COMING SOON",
+
+"projects.coming.status": "CLASSIFIED",
+
+"projects.coming.description": "Project details will be revealed after the official announcement.",
+
+"project.evelyn.short": "An independent narrative experience.",
+
+"project.pyromaniac.short": "Italian localization completed.",
+
+"project.nopassinggrade.short": "Italian localization completed.",
+
+"project.mopsmobs.short": "Demo localization completed."
+}
