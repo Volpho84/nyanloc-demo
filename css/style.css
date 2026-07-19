@@ -2505,3 +2505,246 @@ section {
     }
 
 }
+
+/* ==========================
+   MOBILE RESPONSIVE
+========================== */
+
+
+@media screen and (max-width: 768px) {
+
+
+/* NAVBAR */
+
+.navbar {
+    flex-direction: column;
+    padding: 20px 10px;
+    gap: 20px;
+}
+
+
+.logo-container {
+    justify-content: center;
+}
+
+
+.logo-img {
+    width: 45px;
+}
+
+
+.logo-text {
+    font-size: 18px;
+}
+
+
+.menu {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+
+.menu a {
+    font-size: 12px;
+}
+
+
+.language-selector {
+    justify-content: center;
+}
+
+
+
+/* HERO */
+
+.hero {
+    padding: 80px 20px 50px;
+    text-align: center;
+}
+
+
+.hero-logo {
+    width: 150px;
+}
+
+
+.hero h1 {
+    font-size: 32px;
+}
+
+
+.hero h2 {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+
+.hero p {
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+
+.hero-buttons {
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.btn {
+    width: 80%;
+    max-width: 280px;
+}
+
+
+
+/* SEZIONI GENERALI */
+
+
+.home-section,
+.stats-window,
+.contact-page,
+.projects-section {
+    width: 90%;
+    margin: 40px auto;
+}
+
+
+.home-section h2,
+.stats-window h2 {
+    font-size: 18px;
+}
+
+
+.home-section p {
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+
+
+/* STATISTICHE */
+
+.stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+
+.stat span {
+    font-size: 28px;
+}
+
+
+.stat p {
+    font-size: 12px;
+}
+
+
+
+/* PROGETTI */
+
+
+.projects-grid {
+    grid-template-columns: 1fr;
+}
+
+
+.game-card {
+    width: 100%;
+}
+
+
+.game-card img {
+    max-height: 180px;
+}
+
+
+
+/* TEAM */
+
+
+.team-grid {
+    grid-template-columns: 1fr;
+}
+
+
+.member-card {
+    padding: 20px;
+}
+
+
+
+/* CONTATTI */
+
+
+.contact-options {
+    grid-template-columns: 1fr;
+}
+
+
+.contact-terminal h1 {
+    font-size: 18px;
+}
+
+
+.terminal-text {
+    font-size: 13px;
+}
+
+
+
+/* FOOTER */
+
+
+footer {
+    text-align: center;
+    padding: 30px 15px;
+}
+
+
+.footer-links {
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+}
+
+
+
+/* ==========================
+   SCHERMI MOLTO PICCOLI
+========================== */
+
+
+@media screen and (max-width: 420px) {
+
+
+.hero h1 {
+    font-size: 26px;
+}
+
+
+.logo-text {
+    font-size: 16px;
+}
+
+
+.menu a {
+    font-size: 11px;
+}
+
+
+.stats-grid {
+    grid-template-columns: 1fr;
+}
+
+
+.btn {
+    width: 90%;
+}
+
+
+}
