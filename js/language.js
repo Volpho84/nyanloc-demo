@@ -2,30 +2,47 @@ const defaultLanguage = "it";
 
 let translations = {};
 
+
 async function loadLanguage(language) {
 
     showLoading();
 
-    const response = await fetch(`languages/${language}.json`);
+    try {
 
-    translations = await response.json();
+        const response = await fetch(`./languages/${language}.json`);
 
-    document.documentElement.lang = language;
+        if (!response.ok) {
+            throw new Error(`Language file not found: ${language}`);
+        }
 
-    localStorage.setItem("language", language);
+        translations = await response.json();
 
-    applyTranslations();
+        document.documentElement.lang = language;
+
+        localStorage.setItem("language", language);
+
+        applyTranslations();
+
+
+    } catch (error) {
+
+        console.error("Language loading error:", error);
+
+    }
 
 }
+
 
 
 function applyTranslations() {
 
     const elements = document.querySelectorAll("[data-lang]");
 
+
     elements.forEach(element => {
 
         const key = element.dataset.lang;
+
 
         if (translations[key]) {
 
@@ -42,18 +59,22 @@ function applyTranslations() {
 }
 
 
+
+
 function showLoading() {
 
     const loadingScreen = document.querySelector(".loading-screen");
+
 
     if (!loadingScreen) return;
 
 
     const loadingText = document.querySelector("#loading-text");
 
+
     if (loadingText && translations["loading.text"]) {
 
-        loadingText.textContent = "> " + translations["loading.text"];
+        loadingText.textContent = translations["loading.text"];
 
     }
 
@@ -68,9 +89,11 @@ function showLoading() {
     }, 10);
 
 
+
     setTimeout(() => {
 
         loadingScreen.style.opacity = "0";
+
 
         setTimeout(() => {
 
@@ -78,16 +101,22 @@ function showLoading() {
 
         }, 500);
 
+
     }, 1800);
+
 
 }
 
 
 
+
 window.addEventListener("DOMContentLoaded", () => {
+
 
     const savedLanguage = localStorage.getItem("language") || defaultLanguage;
 
+
     loadLanguage(savedLanguage);
+
 
 });
